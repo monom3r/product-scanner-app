@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://mer-Bak-r-s-workspace-pihpgb.eu-central-1.xata.sh/db/vera",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
